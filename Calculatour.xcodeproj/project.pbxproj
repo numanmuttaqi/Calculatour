@@ -1,0 +1,575 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EF7046242B93D98F00D89802 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7046232B93D98F00D89802 /* AppDelegate.m */; };
+		EF7046272B93D98F00D89802 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7046262B93D98F00D89802 /* ViewController.m */; };
+		EF7046292B93D99000D89802 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF7046282B93D99000D89802 /* Assets.xcassets */; };
+		EF70462C2B93D99000D89802 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF70462A2B93D99000D89802 /* Main.storyboard */; };
+		EF70462E2B93D99000D89802 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EF70462D2B93D99000D89802 /* main.m */; };
+		EF7046392B93D99000D89802 /* CalculatourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7046382B93D99000D89802 /* CalculatourTests.m */; };
+		EF7046432B93D99000D89802 /* CalculatourUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7046422B93D99000D89802 /* CalculatourUITests.m */; };
+		EF7046452B93D99000D89802 /* CalculatourUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF7046442B93D99000D89802 /* CalculatourUITestsLaunchTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EF7046352B93D99000D89802 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF7046172B93D98F00D89802 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF70461E2B93D98F00D89802;
+			remoteInfo = Calculatour;
+		};
+		EF70463F2B93D99000D89802 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EF7046172B93D98F00D89802 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF70461E2B93D98F00D89802;
+			remoteInfo = Calculatour;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EF70461F2B93D98F00D89802 /* Calculatour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculatour.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF7046222B93D98F00D89802 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EF7046232B93D98F00D89802 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EF7046252B93D98F00D89802 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		EF7046262B93D98F00D89802 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		EF7046282B93D99000D89802 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EF70462B2B93D99000D89802 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EF70462D2B93D99000D89802 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EF70462F2B93D99000D89802 /* Calculatour.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Calculatour.entitlements; sourceTree = "<group>"; };
+		EF7046342B93D99000D89802 /* CalculatourTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatourTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF7046382B93D99000D89802 /* CalculatourTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatourTests.m; sourceTree = "<group>"; };
+		EF70463E2B93D99000D89802 /* CalculatourUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatourUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF7046422B93D99000D89802 /* CalculatourUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatourUITests.m; sourceTree = "<group>"; };
+		EF7046442B93D99000D89802 /* CalculatourUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CalculatourUITestsLaunchTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF70461C2B93D98F00D89802 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF7046312B93D99000D89802 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF70463B2B93D99000D89802 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF7046162B93D98F00D89802 = {
+			isa = PBXGroup;
+			children = (
+				EF7046212B93D98F00D89802 /* Calculatour */,
+				EF7046372B93D99000D89802 /* CalculatourTests */,
+				EF7046412B93D99000D89802 /* CalculatourUITests */,
+				EF7046202B93D98F00D89802 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF7046202B93D98F00D89802 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF70461F2B93D98F00D89802 /* Calculatour.app */,
+				EF7046342B93D99000D89802 /* CalculatourTests.xctest */,
+				EF70463E2B93D99000D89802 /* CalculatourUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF7046212B93D98F00D89802 /* Calculatour */ = {
+			isa = PBXGroup;
+			children = (
+				EF7046222B93D98F00D89802 /* AppDelegate.h */,
+				EF7046232B93D98F00D89802 /* AppDelegate.m */,
+				EF7046252B93D98F00D89802 /* ViewController.h */,
+				EF7046262B93D98F00D89802 /* ViewController.m */,
+				EF7046282B93D99000D89802 /* Assets.xcassets */,
+				EF70462A2B93D99000D89802 /* Main.storyboard */,
+				EF70462D2B93D99000D89802 /* main.m */,
+				EF70462F2B93D99000D89802 /* Calculatour.entitlements */,
+			);
+			path = Calculatour;
+			sourceTree = "<group>";
+		};
+		EF7046372B93D99000D89802 /* CalculatourTests */ = {
+			isa = PBXGroup;
+			children = (
+				EF7046382B93D99000D89802 /* CalculatourTests.m */,
+			);
+			path = CalculatourTests;
+			sourceTree = "<group>";
+		};
+		EF7046412B93D99000D89802 /* CalculatourUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EF7046422B93D99000D89802 /* CalculatourUITests.m */,
+				EF7046442B93D99000D89802 /* CalculatourUITestsLaunchTests.m */,
+			);
+			path = CalculatourUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF70461E2B93D98F00D89802 /* Calculatour */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF7046482B93D99000D89802 /* Build configuration list for PBXNativeTarget "Calculatour" */;
+			buildPhases = (
+				EF70461B2B93D98F00D89802 /* Sources */,
+				EF70461C2B93D98F00D89802 /* Frameworks */,
+				EF70461D2B93D98F00D89802 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Calculatour;
+			productName = Calculatour;
+			productReference = EF70461F2B93D98F00D89802 /* Calculatour.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EF7046332B93D99000D89802 /* CalculatourTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF70464B2B93D99000D89802 /* Build configuration list for PBXNativeTarget "CalculatourTests" */;
+			buildPhases = (
+				EF7046302B93D99000D89802 /* Sources */,
+				EF7046312B93D99000D89802 /* Frameworks */,
+				EF7046322B93D99000D89802 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF7046362B93D99000D89802 /* PBXTargetDependency */,
+			);
+			name = CalculatourTests;
+			productName = CalculatourTests;
+			productReference = EF7046342B93D99000D89802 /* CalculatourTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EF70463D2B93D99000D89802 /* CalculatourUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF70464E2B93D99000D89802 /* Build configuration list for PBXNativeTarget "CalculatourUITests" */;
+			buildPhases = (
+				EF70463A2B93D99000D89802 /* Sources */,
+				EF70463B2B93D99000D89802 /* Frameworks */,
+				EF70463C2B93D99000D89802 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EF7046402B93D99000D89802 /* PBXTargetDependency */,
+			);
+			name = CalculatourUITests;
+			productName = CalculatourUITests;
+			productReference = EF70463E2B93D99000D89802 /* CalculatourUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF7046172B93D98F00D89802 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					EF70461E2B93D98F00D89802 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+					EF7046332B93D99000D89802 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = EF70461E2B93D98F00D89802;
+					};
+					EF70463D2B93D99000D89802 = {
+						CreatedOnToolsVersion = 15.2;
+						TestTargetID = EF70461E2B93D98F00D89802;
+					};
+				};
+			};
+			buildConfigurationList = EF70461A2B93D98F00D89802 /* Build configuration list for PBXProject "Calculatour" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF7046162B93D98F00D89802;
+			productRefGroup = EF7046202B93D98F00D89802 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF70461E2B93D98F00D89802 /* Calculatour */,
+				EF7046332B93D99000D89802 /* CalculatourTests */,
+				EF70463D2B93D99000D89802 /* CalculatourUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF70461D2B93D98F00D89802 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF7046292B93D99000D89802 /* Assets.xcassets in Resources */,
+				EF70462C2B93D99000D89802 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF7046322B93D99000D89802 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF70463C2B93D99000D89802 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF70461B2B93D98F00D89802 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF7046272B93D98F00D89802 /* ViewController.m in Sources */,
+				EF70462E2B93D99000D89802 /* main.m in Sources */,
+				EF7046242B93D98F00D89802 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF7046302B93D99000D89802 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF7046392B93D99000D89802 /* CalculatourTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EF70463A2B93D99000D89802 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF7046452B93D99000D89802 /* CalculatourUITestsLaunchTests.m in Sources */,
+				EF7046432B93D99000D89802 /* CalculatourUITests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EF7046362B93D99000D89802 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF70461E2B93D98F00D89802 /* Calculatour */;
+			targetProxy = EF7046352B93D99000D89802 /* PBXContainerItemProxy */;
+		};
+		EF7046402B93D99000D89802 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF70461E2B93D98F00D89802 /* Calculatour */;
+			targetProxy = EF70463F2B93D99000D89802 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		EF70462A2B93D99000D89802 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF70462B2B93D99000D89802 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF7046462B93D99000D89802 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		EF7046472B93D99000D89802 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		EF7046492B93D99000D89802 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Calculatour/Calculatour.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.Calculatour;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Debug;
+		};
+		EF70464A2B93D99000D89802 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Calculatour/Calculatour.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.Calculatour;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+			};
+			name = Release;
+		};
+		EF70464C2B93D99000D89802 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.CalculatourTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Calculatour.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Calculatour";
+			};
+			name = Debug;
+		};
+		EF70464D2B93D99000D89802 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.CalculatourTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Calculatour.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Calculatour";
+			};
+			name = Release;
+		};
+		EF70464F2B93D99000D89802 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.CalculatourUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = Calculatour;
+			};
+			name = Debug;
+		};
+		EF7046502B93D99000D89802 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Muttaqi.CalculatourUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				TEST_TARGET_NAME = Calculatour;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF70461A2B93D98F00D89802 /* Build configuration list for PBXProject "Calculatour" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF7046462B93D99000D89802 /* Debug */,
+				EF7046472B93D99000D89802 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF7046482B93D99000D89802 /* Build configuration list for PBXNativeTarget "Calculatour" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF7046492B93D99000D89802 /* Debug */,
+				EF70464A2B93D99000D89802 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF70464B2B93D99000D89802 /* Build configuration list for PBXNativeTarget "CalculatourTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF70464C2B93D99000D89802 /* Debug */,
+				EF70464D2B93D99000D89802 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF70464E2B93D99000D89802 /* Build configuration list for PBXNativeTarget "CalculatourUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF70464F2B93D99000D89802 /* Debug */,
+				EF7046502B93D99000D89802 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF7046172B93D98F00D89802 /* Project object */;
+}
