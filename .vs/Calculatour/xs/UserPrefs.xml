@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{738896F2-EE1A-413D-8D03-B0A316985757}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Calculatour PreferredExecutionTarget="MyMacID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculatour/ViewController.designer.cs">
+    <Files>
+      <File FileName="Calculatour/AppDelegate.cs" />
+      <File FileName="Calculatour/ViewController.cs" />
+      <File FileName="Calculatour/ViewController.designer.cs" Line="23" Column="1" />
+      <File FileName="Calculatour/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculatour" expanded="True">
+            <Node name="Calculatour">
+              <Node name="Main.storyboard" selected="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

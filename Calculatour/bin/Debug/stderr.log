@@ -1,0 +1,1 @@
+2024-03-04 11:52:40.963 Calculator[36286:13380492] WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:.

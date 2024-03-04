@@ -1,0 +1,16 @@
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/bin/Debug/Calculator.exe
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/bin/Debug/Calculator.pdb
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/actool/_PartialAppManifest.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/_ProcessedContentPath.items
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/Calculatour.csproj.AssemblyReference.cache
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/Calculatour.csproj.CoreCompileInputs.cache
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/Calculator.exe
+/Users/muhammadnumanmuttaqi/Documents/Self Learning/C#/Calculator/Calculatour/Calculatour/obj/Debug/Calculator.pdb
